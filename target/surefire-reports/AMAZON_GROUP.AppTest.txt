@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: AMAZON_GROUP.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.078 s - in AMAZON_GROUP.AppTest
